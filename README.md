@@ -1,1 +1,1 @@
-# PDS-3
+Question-3 The bar chart visually compares the mean, standard deviation, and 90th percentile of blood pressure between the population and the bootstrap samples.In general, the population and average bootstrap statistics are quite close, indicating that the bootstrap resampling method is providing estimates that align well with the original population.These findings suggest that the bootstrap method is effective in approximating the population statistics for the 'BloodPressure' variable, as the average bootstrap statistics are consistent with the population values.
